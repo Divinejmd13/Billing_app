@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364913578733",
+    "project_id": "billingappsadhgurutelecom",
+    "storage_bucket": "billingappsadhgurutelecom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364913578733:android:6e92eece6280236519b2e4",
+        "android_client_info": {
+          "package_name": "com.example.billingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_WMr2NKlc6cmsNYqYhA--WA41z-vJ8DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
